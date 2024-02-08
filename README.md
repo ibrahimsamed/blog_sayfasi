@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project. final version you can access via https://vercel.com/ibrahimsamed/blog-sayfasi 
+This is a [Next.js](https://nextjs.org/) project. final version you can access via https://vercel.com/ibrahimsamed/blog-sayfasi.
+I did this web project with I learned from mehmet Pekcan.
 
 ## Getting Started
 
